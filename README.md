@@ -5,7 +5,7 @@
 <br>
 <p>
   <samp>
-  I'm a telecom engineer with passion of mobile development & latest technologies related to mobile. I started my career as an iOS  developer, enhancing my skills in Android and then Mac 💻 development.
+  I'm a telecom engineer with passion of mobile development & latest technologies related to mobile. I started my career as an iOS  developer, enhanced my skills in Android and then Mac 💻 development.
   <br>
   <br>
   You can count me as a diversified team player, a detail oriented resource, and a quick learner. 
